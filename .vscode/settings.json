@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Fishing game.sln"
+    "dotnet.defaultSolution": "Fishing-game.sln"
 }
